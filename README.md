@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# ComponentDemo
-Demo for React Components
-=======
 ## bit.dev
 
   Start bit.bit:
@@ -9,4 +5,3 @@ Demo for React Components
   bit run bit-dev
   ```
   
->>>>>>> feat: initial commit
